@@ -1,8 +1,11 @@
-<div align="center">
+<p>
+  <img src="https://files.catbox.moe/art77n.png" width="200" align="left">
 
-<a href="https://last.fm/user/moroiis">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nfrnbf6mz63ia57n4wggkirctu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
-</a>
+  <div style="margin-top:180px; margin-left:-60px;">
+    <a href="https://last.fm/user/moroiis">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nfrnbf6mz63ia57n4wggkirctu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false">
+  </div>
+</p>
 
-</div>
+<br clear="left">
 <img src="https://komarev.com/ghpvc/?username=archpup&label=　☆　&color=grey" />
